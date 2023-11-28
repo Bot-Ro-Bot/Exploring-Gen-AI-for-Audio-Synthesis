@@ -22,8 +22,9 @@ A simple audio dataset consisting of recordings of spoken digits in wav files  s
 * Keras
 * Sklearn
 * TensorFlow
-* PyTorch
 
 ### References
 * Valerio-The Sound of AI
 * [Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset)
+* https://www.deeplearningbook.org/
+
