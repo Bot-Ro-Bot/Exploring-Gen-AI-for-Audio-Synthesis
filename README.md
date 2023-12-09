@@ -16,10 +16,10 @@ A simple audio dataset consisting of recordings of spoken digits in wav files  s
 
 ## Outputs
 ### Actual Audio:
-[ZERO]()
-[ONE]()
-[TWO]()
-[THREE]()
+[ZERO](https://github.com/Jakobovski/free-spoken-digit-dataset/blob/master/recordings/0_lucas_0.wav)
+[ONE](https://github.com/Jakobovski/free-spoken-digit-dataset/blob/master/recordings/1_nicolas_23.wav)
+[TWO](https://github.com/Jakobovski/free-spoken-digit-dataset/blob/master/recordings/2_theo_44.wav)
+[THREE](https://github.com/Jakobovski/free-spoken-digit-dataset/blob/master/recordings/3_george_14.wav)
 [FOUR]()
 [FIVE]()
 [SIX]()
@@ -28,15 +28,15 @@ A simple audio dataset consisting of recordings of spoken digits in wav files  s
 [NINE]()
 
 ### Generated Audio:
-[ZERO]()
-[ONE](val_900_one.wav)
+[ZERO](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/val_256_zero.wav)
+[ONE](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/val_500_two.wav)
 [TWO](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/val_500_two.wav)
-[THREE]()
-[FOUR]()
+[THREE](val_456_three.wav)
+[FOUR](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/cnn_four.wav)
 [FIVE]()
-[SIX]()
-[SEVEN]()
-[EIGHT]() 
+[SIX](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/cnn_six.wav)
+[SEVEN](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/cnn_seven.wav)
+[EIGHT](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/cnn_eight.wav) 
 [NINE]()
 
 
