@@ -15,9 +15,29 @@ A simple audio dataset consisting of recordings of spoken digits in wav files  s
 
 
 ## Outputs
-Actual Audio:  
-Generated Audio:
+### Actual Audio:
+[ZERO]()
+[ONE]()
+[TWO]()
+[THREE]()
+[FOUR]()
+[FIVE]()
+[SIX]()
+[SEVEN]()
+[EIGHT]() 
+[NINE]()
 
+### Generated Audio:
+[ZERO]()
+[ONE](val_900_one.wav)
+[TWO](https://github.com/Bot-Ro-Bot/Exploring-Gen-AI-for-Audio-Synthesis/blob/main/output/val_500_two.wav)
+[THREE]()
+[FOUR]()
+[FIVE]()
+[SIX]()
+[SEVEN]()
+[EIGHT]() 
+[NINE]()
 
 
 
