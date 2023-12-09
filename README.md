@@ -50,13 +50,26 @@ create python environment
 conda create --name myenv
 ```
 
+download dataset
+```bash
+# download kaggle API
+pip3 install kaggle
+
+# users need to configure their Kaggle API at this point
+
+# download dataset
+kaggle datasets download -d sripaadsrinivasan/audio-mnist
+mv audio-mnist dataset
+```
+
 install python libraries
 ```bash
 pip3 install -r codes/requirements.txt
 ```
 
-train model
+train gen-AI model
 ```bash
+python3 codes/features.py
 python3 codes/train.py
 ```
 generate audio (give input as a string of digits that you want to generate)
