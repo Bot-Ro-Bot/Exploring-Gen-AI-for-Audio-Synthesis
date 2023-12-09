@@ -1,6 +1,6 @@
 import config
-import vae
-import autoencoder
+import vae_cnn
+import vae_mlp
 
 def train_model():
     pass

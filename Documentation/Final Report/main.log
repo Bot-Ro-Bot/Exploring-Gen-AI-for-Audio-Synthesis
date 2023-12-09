@@ -1,0 +1,720 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.25)  9 DEC 2023 14:21
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/rabinnepal/gitHub/Neural Network Project/Documentation/Final Report/main.tex"
+(/Users/rabinnepal/gitHub/Neural Network Project/Documentation/Final Report/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count196
+\mult@box=\box51
+\multicol@leftmargin=\dimen151
+\c@unbalance=\count197
+\c@collectmore=\count198
+\doublecol@number=\count199
+\multicoltolerance=\count266
+\multicolpretolerance=\count267
+\full@width=\dimen152
+\page@free=\dimen153
+\premulticols=\dimen154
+\postmulticols=\dimen155
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen156
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count268
+\c@columnbadness=\count269
+\c@finalcolumnbadness=\count270
+\last@try=\dimen157
+\multicolovershoot=\dimen158
+\multicolundershoot=\dimen159
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count271
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box96
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen160
+\ttl@minus=\dimen161
+\ttl@toksa=\toks18
+\titlewidth=\dimen162
+\titlewidthlast=\dimen163
+\titlewidthfirst=\dimen164
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen165
+\ar@mcellbox=\box97
+\extrarowheight=\dimen166
+\NC@list=\toks19
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box98
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count272
+\multirow@dima=\skip57
+\bigstrutjot=\dimen167
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tabularray/tabularray.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box99
+))
+Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count274
+\l__tblr_c_int=\count275
+\l__tblr_r_int=\count276
+\l__tblr_d_dim=\dimen168
+\l__tblr_h_dim=\dimen169
+\l__tblr_o_dim=\dimen170
+\l__tblr_p_dim=\dimen171
+\l__tblr_q_dim=\dimen172
+\l__tblr_r_dim=\dimen173
+\l__tblr_s_dim=\dimen174
+\l__tblr_t_dim=\dimen175
+\l__tblr_v_dim=\dimen176
+\l__tblr_w_dim=\dimen177
+\l__tblr_a_box=\box100
+\l__tblr_b_box=\box101
+\l__tblr_c_box=\box102
+\l__tblr_d_box=\box103
+\g__tblr_table_count_int=\count277
+\c@rownum=\count278
+\c@colnum=\count279
+\c@rowcount=\count280
+\c@colcount=\count281
+\abovesep=\dimen178
+\belowsep=\dimen179
+\leftsep=\dimen180
+\rightsep=\dimen181
+\g_tblr_level_int=\count282
+\g__tblr_data_row_key_count_int=\count283
+\g__tblr_data_column_key_count_int=\count284
+\g__tblr_data_cell_key_count_int=\count285
+\g__tblr_array_int=\count286
+\l__tblr_key_count_int=\count287
+\l__tblr_key_quotient_int=\count288
+\l__tblr_key_quotient_two_int=\count289
+\l__tblr_key_remainder_int=\count290
+\g__tblr_data_str_value_count_int=\count291
+\rulewidth=\dimen182
+\l__tblr_strut_dp_dim=\dimen183
+\l__tblr_strut_ht_dim=\dimen184
+\g__tblr_cell_wd_dim=\dimen185
+\g__tblr_cell_ht_dim=\dimen186
+\g__tblr_cell_head_dim=\dimen187
+\g__tblr_cell_foot_dim=\dimen188
+\l__column_target_dim=\dimen189
+\l__tblr_caption_box=\box104
+\l__tblr_caption_left_box=\box105
+\l__tblr_row_head_box=\box106
+\l__tblr_row_foot_box=\box107
+\l__tblr_row_head_foot_dim=\dimen190
+\tablewidth=\dimen191
+\l__tblr_table_firsthead_box=\box108
+\l__tblr_table_middlehead_box=\box109
+\l__tblr_table_lasthead_box=\box110
+\l__tblr_table_firstfoot_box=\box111
+\l__tblr_table_middlefoot_box=\box112
+\l__tblr_table_lastfoot_box=\box113
+\l__tblr_remain_height_dim=\dimen192
+\l__tblr_long_from_int=\count292
+\l__tblr_long_to_int=\count293
+\l__tblr_curr_i_int=\count294
+\l__tblr_prev_i_int=\count295
+\l__tblr_table_page_int=\count296
+\l__tblr_table_head_box=\box114
+\l__tblr_table_foot_box=\box115
+\l__tblr_table_head_foot_dim=\dimen193
+\l__tblr_table_head_body_foot_dim=\dimen194
+\l__tblr_table_box=\box116
+\l__tblr_table_hlines_box=\box117
+\l__tblr_hline_box=\box118
+\l__tblr_row_box=\box119
+\l__tblr_col_o_wd_dim=\dimen195
+\l__tblr_col_b_wd_dim=\dimen196
+\l__tblr_hline_leftskip_dim=\dimen197
+\l__tblr_hline_rightskip_dim=\dimen198
+\l__tblr_row_ht_dim=\dimen199
+\l__tblr_row_dp_dim=\dimen256
+\l__tblr_row_abovesep_dim=\dimen257
+\l__tblr_row_belowsep_dim=\dimen258
+\l__tblr_row_vlines_box=\box120
+\l__tblr_vline_box=\box121
+\l__tblr_cell_box=\box122
+\l__row_upper_dim=\dimen259
+\l__row_lower_dim=\dimen260
+\l__row_vpace_dim=\dimen261
+\l__tblr_vline_aboveskip_dim=\dimen262
+\l__tblr_vline_belowskip_dim=\dimen263
+\l__tblr_cell_wd_dim=\dimen264
+\l__tblr_cell_ht_dim=\dimen265
+\l__tblr_diag_box=\box123
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen266
+\captionmargin=\dimen267
+\caption@leftmargin=\dimen268
+\caption@rightmargin=\dimen269
+\caption@width=\dimen270
+\caption@indent=\dimen271
+\caption@parindent=\dimen272
+\caption@hangindent=\dimen273
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count297
+\c@continuedfloat=\count298
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count299
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count300
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks20
+\minrowclearance=\skip58
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count301
+\scratchdimen=\dimen274
+\scratchbox=\box124
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen275
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
+* v-part:(T,H,B)=(57.81621pt, 679.33757pt, 57.81621pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=498.66258pt
+* \textheight=679.33757pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-51.45378pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+
+/Users/rabinnepal/gitHub/Neural Network Project/Documentation/Final Report/main.tex:31: Missing number, treated as zero.
+<to be read again> 
+                   C
+l.31     \maketitle
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/rabinnepal/gitHub/Neural Network Project/Documentation/Final Report/main.tex:31: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   C
+l.31     \maketitle
+                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+/Users/rabinnepal/gitHub/Neural Network Project/Documentation/Final Report/main.tex:31: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31     \maketitle
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `Hinton2006Fast' on page 1 undefined on input line 52.
+
+
+LaTeX Warning: Citation `Goodfellow2014Generative' on page 1 undefined on input line 52.
+
+[1]
+
+LaTeX Warning: Citation `Natsiou2021Audio' on page 2 undefined on input line 60.
+
+
+LaTeX Warning: Citation `Becker2018Interpreting' on page 2 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Oord2016WaveNet' on page 2 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Ren2019FastSpeech' on page 2 undefined on input line 66.
+
+
+LaTeX Warning: Citation `Donahue2018Adversarial' on page 2 undefined on input line 68.
+
+[2]
+<figures/sample audio.png, id=18, 1093.08376pt x 291.0875pt>
+File: figures/sample audio.png Graphic file (type png)
+<use figures/sample audio.png>
+Package pdftex.def Info: figures/sample audio.png  used on input line 75.
+(pdftex.def)             Requested size: 373.99693pt x 99.5947pt.
+<figures/sample distribution.png, id=19, 1308.89pt x 867.24pt>
+File: figures/sample distribution.png Graphic file (type png)
+<use figures/sample distribution.png>
+Package pdftex.def Info: figures/sample distribution.png  used on input line 87.
+(pdftex.def)             Requested size: 299.20059pt x 198.24356pt.
+ [3 <./figures/sample audio.png> <./figures/sample distribution.png>]
+<figures/speaker diversity.png, id=23, 1157.32375pt x 1021.8175pt>
+File: figures/speaker diversity.png Graphic file (type png)
+<use figures/speaker diversity.png>
+Package pdftex.def Info: figures/speaker diversity.png  used on input line 99.
+(pdftex.def)             Requested size: 299.20059pt x 264.16948pt.
+<figures/method.png, id=24, 2955.04pt x 1128.215pt>
+File: figures/method.png Graphic file (type png)
+<use figures/method.png>
+Package pdftex.def Info: figures/method.png  used on input line 122.
+(pdftex.def)             Requested size: 448.79327pt x 171.3424pt.
+ [4{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./figures/speaker diversity.png>]
+<figures/audio after filtering data.png, id=30, 848.16875pt x 712.6625pt>
+File: figures/audio after filtering data.png Graphic file (type png)
+<use figures/audio after filtering data.png>
+Package pdftex.def Info: figures/audio after filtering data.png  used on input line 141.
+(pdftex.def)             Requested size: 249.33128pt x 209.49416pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./figures/method.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 153.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 153.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 153.
+<figures/sample before normalization.png, id=35, 792.9625pt x 792.9625pt>
+File: figures/sample before normalization.png Graphic file (type png)
+<use figures/sample before normalization.png>
+Package pdftex.def Info: figures/sample before normalization.png  used on input line 190.
+(pdftex.def)             Requested size: 224.39664pt x 224.3874pt.
+<figures/sample after normalization.png, id=36, 792.9625pt x 792.9625pt>
+File: figures/sample after normalization.png Graphic file (type png)
+<use figures/sample after normalization.png>
+Package pdftex.def Info: figures/sample after normalization.png  used on input line 197.
+(pdftex.def)             Requested size: 224.39664pt x 224.3874pt.
+ [6 <./figures/audio after filtering data.png>]
+<figures/train_test.png, id=43, 1193.45876pt x 692.5875pt>
+File: figures/train_test.png Graphic file (type png)
+<use figures/train_test.png>
+Package pdftex.def Info: figures/train_test.png  used on input line 228.
+(pdftex.def)             Requested size: 373.99693pt x 217.03543pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./figures/sample before normalization.png> <./figures/sample after normalization.png>]
+<figures/spectogram.png, id=47, 676.4472pt x 281.853pt>
+File: figures/spectogram.png Graphic file (type png)
+<use figures/spectogram.png>
+Package pdftex.def Info: figures/spectogram.png  used on input line 241.
+(pdftex.def)             Requested size: 224.39664pt x 93.49776pt.
+<figures/spectogram after normalization.png, id=48, 610.6815pt x 290.5254pt>
+File: figures/spectogram after normalization.png Graphic file (type png)
+<use figures/spectogram after normalization.png>
+Package pdftex.def Info: figures/spectogram after normalization.png  used on input line 248.
+(pdftex.def)             Requested size: 199.46198pt x 94.88953pt.
+
+
+LaTeX Warning: Citation `Goodfellow2016Deep' on page 8 undefined on input line 259.
+
+[8 <./figures/train_test.png> <./figures/spectogram.png> <./figures/spectogram after normalization.png>]
+<figures/vae-arch.jpg, id=54, 853.1875pt x 395.4775pt>
+File: figures/vae-arch.jpg Graphic file (type jpg)
+<use figures/vae-arch.jpg>
+Package pdftex.def Info: figures/vae-arch.jpg  used on input line 263.
+(pdftex.def)             Requested size: 373.99693pt x 173.3589pt.
+
+
+LaTeX Warning: Citation `Weng2018From' on page 9 undefined on input line 264.
+
+
+LaTeX Warning: Citation `Weng2018From' on page 9 undefined on input line 264.
+
+
+LaTeX Warning: Citation `Foster2023-yo' on page 9 undefined on input line 279.
+
+<figures/VAE-MLP Arch.jpg, id=55, 1445.4pt x 813.0375pt>
+File: figures/VAE-MLP Arch.jpg Graphic file (type jpg)
+<use figures/VAE-MLP Arch.jpg>
+Package pdftex.def Info: figures/VAE-MLP Arch.jpg  used on input line 284.
+(pdftex.def)             Requested size: 498.66258pt x 280.49825pt.
+
+LaTeX Warning: Citation `LeNail2019' on page 9 undefined on input line 285.
+
+
+LaTeX Warning: Citation `LeNail2019' on page 9 undefined on input line 285.
+
+[9 <./figures/vae-arch.jpg>] [10 <./figures/VAE-MLP Arch.jpg>]
+<figures/VAE-CNN.jpg, id=66, 1445.4pt x 813.0375pt>
+File: figures/VAE-CNN.jpg Graphic file (type jpg)
+<use figures/VAE-CNN.jpg>
+Package pdftex.def Info: figures/VAE-CNN.jpg  used on input line 317.
+(pdftex.def)             Requested size: 498.66258pt x 280.49825pt.
+
+
+LaTeX Warning: Citation `LeNail2019' on page 11 undefined on input line 318.
+
+
+LaTeX Warning: Citation `LeNail2019' on page 11 undefined on input line 318.
+
+[11 <./figures/VAE-CNN.jpg>]
+<figures/gen_stft.png, id=70, 668.4975pt x 260.975pt>
+File: figures/gen_stft.png Graphic file (type png)
+<use figures/gen_stft.png>
+Package pdftex.def Info: figures/gen_stft.png  used on input line 360.
+(pdftex.def)             Requested size: 224.39664pt x 87.60338pt.
+<generated_audio.png, id=71, 668.4975pt x 219.82124pt>
+File: generated_audio.png Graphic file (type png)
+<use generated_audio.png>
+Package pdftex.def Info: generated_audio.png  used on input line 367.
+(pdftex.def)             Requested size: 224.39664pt x 73.78899pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12]
+<mlp_vae_50.png, id=76, 337.26pt x 295.1025pt>
+File: mlp_vae_50.png Graphic file (type png)
+<use mlp_vae_50.png>
+Package pdftex.def Info: mlp_vae_50.png  used on input line 398.
+(pdftex.def)             Requested size: 224.39664pt x 196.34875pt.
+<mlp_vae_lat.png, id=77, 311.1625pt x 289.08pt>
+File: mlp_vae_lat.png Graphic file (type png)
+<use mlp_vae_lat.png>
+Package pdftex.def Info: mlp_vae_lat.png  used on input line 405.
+(pdftex.def)             Requested size: 224.39664pt x 208.47267pt.
+ [13 <./figures/gen_stft.png> <./generated_audio.png>]
+<100.png, id=83, 332.24126pt x 284.06125pt>
+File: 100.png Graphic file (type png)
+<use 100.png>
+Package pdftex.def Info: 100.png  used on input line 420.
+(pdftex.def)             Requested size: 224.39664pt x 191.85875pt.
+<lat_100.png, id=84, 317.185pt x 289.08pt>
+File: lat_100.png Graphic file (type png)
+<use lat_100.png>
+Package pdftex.def Info: lat_100.png  used on input line 427.
+(pdftex.def)             Requested size: 224.39664pt x 204.52042pt.
+ [14 <./mlp_vae_50.png> <./mlp_vae_lat.png> <./100.png> <./lat_100.png>]
+<100r.png, id=92, 329.23pt x 311.1625pt>
+File: 100r.png Graphic file (type png)
+<use 100r.png>
+Package pdftex.def Info: 100r.png  used on input line 443.
+(pdftex.def)             Requested size: 224.39664pt x 212.08623pt.
+<latr.png, id=93, 306.14375pt x 300.12125pt>
+File: latr.png Graphic file (type png)
+<use latr.png>
+Package pdftex.def Info: latr.png  used on input line 450.
+(pdftex.def)             Requested size: 224.39664pt x 219.97969pt.
+ [15 <./100r.png> <./latr.png>]
+<50c.png, id=99, 344.28625pt x 308.15125pt>
+File: 50c.png Graphic file (type png)
+<use 50c.png>
+Package pdftex.def Info: 50c.png  used on input line 470.
+(pdftex.def)             Requested size: 224.39664pt x 200.84605pt.
+<50clat.png, id=100, 320.19624pt x 307.1475pt>
+File: 50clat.png Graphic file (type png)
+<use 50clat.png>
+Package pdftex.def Info: 50clat.png  used on input line 477.
+(pdftex.def)             Requested size: 224.39664pt x 215.25485pt.
+<100cr.png, id=101, 359.3425pt x 300.12125pt>
+File: 100cr.png Graphic file (type png)
+<use 100cr.png>
+Package pdftex.def Info: 100cr.png  used on input line 495.
+(pdftex.def)             Requested size: 224.39664pt x 187.41962pt.
+<latcr.png, id=102, 327.2225pt x 303.1325pt>
+File: latcr.png Graphic file (type png)
+<use latcr.png>
+Package pdftex.def Info: latcr.png  used on input line 502.
+(pdftex.def)             Requested size: 224.39664pt x 207.87578pt.
+ [16 <./50c.png> <./50clat.png>]
+<abc11.png, id=108, 620.3175pt x 143.53625pt>
+File: abc11.png Graphic file (type png)
+<use abc11.png>
+Package pdftex.def Info: abc11.png  used on input line 565.
+(pdftex.def)             Requested size: 224.39664pt x 51.92268pt.
+<gen_1.png, id=109, 602.25pt x 120.45pt>
+File: gen_1.png Graphic file (type png)
+<use gen_1.png>
+Package pdftex.def Info: gen_1.png  used on input line 572.
+(pdftex.def)             Requested size: 224.39664pt x 44.88008pt.
+<ab2.png, id=110, 602.25pt x 143.53625pt>
+File: ab2.png Graphic file (type png)
+<use ab2.png>
+Package pdftex.def Info: ab2.png  used on input line 581.
+(pdftex.def)             Requested size: 224.39664pt x 53.48209pt.
+<gen_4.png, id=111, 617.30624pt x 126.4725pt>
+File: gen_4.png Graphic file (type png)
+<use gen_4.png>
+Package pdftex.def Info: gen_4.png  used on input line 588.
+(pdftex.def)             Requested size: 224.39664pt x 45.9739pt.
+<abc3.png, id=112, 631.35875pt x 143.53625pt>
+File: abc3.png Graphic file (type png)
+<use abc3.png>
+Package pdftex.def Info: abc3.png  used on input line 597.
+(pdftex.def)             Requested size: 224.39664pt x 51.01595pt.
+<gen6.png, id=113, 609.27625pt x 130.4875pt>
+File: gen6.png Graphic file (type png)
+<use gen6.png>
+Package pdftex.def Info: gen6.png  used on input line 604.
+(pdftex.def)             Requested size: 224.39664pt x 48.0586pt.
+<abc4.png, id=114, 625.33624pt x 143.53625pt>
+File: abc4.png Graphic file (type png)
+<use abc4.png>
+Package pdftex.def Info: abc4.png  used on input line 613.
+(pdftex.def)             Requested size: 224.39664pt x 51.50655pt.
+<gen8.png, id=115, 631.35875pt x 135.50626pt>
+File: gen8.png Graphic file (type png)
+<use gen8.png>
+Package pdftex.def Info: gen8.png  used on input line 620.
+(pdftex.def)             Requested size: 224.39664pt x 48.16191pt.
+ [17 <./100cr.png> <./latcr.png>] [18 <./abc11.png> <./gen_1.png> <./ab2.png> <./gen_4.png> <./abc3.png> <./gen6.png> <./abc4.png> <./gen8.png>]
+No file main.bbl.
+<figures/raw_all.png, id=133, 2001.4775pt x 1293.83376pt>
+File: figures/raw_all.png Graphic file (type png)
+<use figures/raw_all.png>
+Package pdftex.def Info: figures/raw_all.png  used on input line 701.
+(pdftex.def)             Requested size: 448.79327pt x 290.11292pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/raw_normal.png, id=134, 2001.4775pt x 1293.83376pt>
+File: figures/raw_normal.png Graphic file (type png)
+<use figures/raw_normal.png>
+Package pdftex.def Info: figures/raw_normal.png  used on input line 709.
+(pdftex.def)             Requested size: 448.79327pt x 290.11292pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/spectrogram_all.png, id=135, 1436.7276pt x 931.5603pt>
+File: figures/spectrogram_all.png Graphic file (type png)
+<use figures/spectrogram_all.png>
+Package pdftex.def Info: figures/spectrogram_all.png  used on input line 716.
+(pdftex.def)             Requested size: 448.79327pt x 290.98395pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<mlp100r_train.png, id=136, 417.56pt x 406.51875pt>
+File: mlp100r_train.png Graphic file (type png)
+<use mlp100r_train.png>
+Package pdftex.def Info: mlp100r_train.png  used on input line 726.
+(pdftex.def)             Requested size: 224.39664pt x 218.46855pt.
+<abc.png, id=137, 417.56pt x 406.51875pt>
+File: abc.png Graphic file (type png)
+<use abc.png>
+Package pdftex.def Info: abc.png  used on input line 733.
+(pdftex.def)             Requested size: 224.39664pt x 218.46855pt.
+[19] [20 <./figures/raw_all.png> <./figures/raw_normal.png>] [21 <./figures/spectrogram_all.png> <./mlp100r_train.png> <./abc.png>] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7071 strings out of 476025
+ 138595 string characters out of 5790017
+ 1862388 words of memory out of 5000000
+ 27453 multiletter control sequences out of 15000+600000
+ 519363 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,16n,79p,1126b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (22 pages, 4007198 bytes).
+PDF statistics:
+ 202 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+
